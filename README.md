@@ -1,2 +1,2 @@
-# HexoBolgImgRepo
-Konjacor's hexo bolg image repository
+# HexoBlogImgRepo
+Konjacor's hexo blog image repository
